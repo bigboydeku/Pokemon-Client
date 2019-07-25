@@ -1,4 +1,4 @@
-# Pokemon-Client
+# Pokemon-Client - Created by Oliver Drowzdowski and Denis Nadarevic
 We decided to recreate the core of Pokémon battles utilizing TCP sockets in Java. Players will connect to a server and take turns attacking until a Pokémon has fainted. Players can also choose from a selection of Pokémon. By doing this we hope to get a greater understanding of how TCP sockets, threads, Java, states, and client-server-client communication functions on a fundamental level. Note that we are just implementing the battling portion, as the rest of the game would be a massive undertaking. 
 
 A substantial amount of planning was needed to understand what type of battle and network systems we needed, how we would organize the database of Pokémon and more. This project idea was decided to challenge not only our understanding of TCP sockets but our ability to program a modern game that is popular to this day. The Java programming language was chosen since both members understand the language. This report will explain the main features, tools, and techniques implemented to perform properly.
